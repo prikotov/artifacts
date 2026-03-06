@@ -26,9 +26,9 @@ yandex_webmaster_reports/           # Данные Яндекс.Вебмасте
 
 ## Использованные skills
 
-- [Google Trends](https://github.com/prikotov/skills/tree/main/google-trends)
-- [Яндекс.Метрика](https://github.com/prikotov/skills/tree/main/yandex-metrika)
-- [Яндекс.Вебмастер](https://github.com/prikotov/skills/tree/main/yandex-webmaster)
+- [Google Trends](https://github.com/prikotov/Маркетинг/tree/main/.opencode/skills/google-trends)
+- [Яндекс.Метрика](https://github.com/prikotov/Маркетинг/tree/main/.opencode/skills/yandex-metrika-core)
+- [Яндекс.Вебмастер](https://github.com/prikotov/Маркетинг/tree/main/.opencode/skills/yandex-webmaster-core)
 
 ## Связанные проекты
 
