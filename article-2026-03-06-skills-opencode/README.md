@@ -30,6 +30,10 @@ yandex_webmaster_reports/           # Данные Яндекс.Вебмасте
 - [Яндекс.Метрика](https://github.com/prikotov/Маркетинг/tree/main/.opencode/skills/yandex-metrika-core)
 - [Яндекс.Вебмастер](https://github.com/prikotov/Маркетинг/tree/main/.opencode/skills/yandex-webmaster-core)
 
+## Процесс
+
+- [AGENTS.md](./AGENTS.md) — описание процесса работы над статьей
+
 ## Связанные проекты
 
 - [task-agents-playbook](https://github.com/prikotov/task-agents-playbook) — процесс для кода
